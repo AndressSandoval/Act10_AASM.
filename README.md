@@ -1,6 +1,7 @@
 # myapp
 
-<img width="422" height="731" alt="image" src="https://github.com/user-attachments/assets/62bc9a60-29ca-4bba-ab0d-1c720c2c93da" />
+<img width="444" height="758" alt="image" src="https://github.com/user-attachments/assets/b27d81c7-efc3-4c34-98b9-dc60eab21e5c" />
+
 
 <img width="575" height="847" alt="image" src="https://github.com/user-attachments/assets/ae94489c-0505-42eb-976d-418fc41df187" />
 
